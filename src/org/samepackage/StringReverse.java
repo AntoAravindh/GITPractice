@@ -16,6 +16,7 @@ public class StringReverse {
 		s2=s2+s5+"";
 		}
 	System.out.println(s2);
+	//ssssssssssssssssssssss
 		
 	}
 
